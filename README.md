@@ -5,6 +5,9 @@
 
 O projeto é dividido em duas partes backend e frontend
 
+## Utilizando
+![](demonstracao.gif)
+
 ## Backend
 
 Essencialmente o backend tem como objetivo gerar um banco de dados baseado numa modelagem já definida e tambem gerar endpoints para acesso dos dados, fazendo a interação do front com o banco de dados.
